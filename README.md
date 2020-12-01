@@ -1,1 +1,3 @@
 # todoApp
+
+todoApp with CoreData
